@@ -1,0 +1,458 @@
+{
+  "Albert Einstein": {
+    "planets": [
+      {
+        "id": "sun",
+        "formatted": "23° 30' 28\" Piscis"
+      },
+      {
+        "id": "moon",
+        "formatted": "14° 31' 33\" Sagitario"
+      },
+      {
+        "id": "mercury",
+        "formatted": "3° 08' 38\" Aries"
+      },
+      {
+        "id": "venus",
+        "formatted": "16° 59' 06\" Aries"
+      },
+      {
+        "id": "mars",
+        "formatted": "26° 54' 51\" Capricornio"
+      },
+      {
+        "id": "jupiter",
+        "formatted": "27° 29' 03\" Acuario"
+      },
+      {
+        "id": "saturn",
+        "formatted": "4° 11' 23\" Aries"
+      },
+      {
+        "id": "uranus",
+        "formatted": "1° 17' 19\" Virgo"
+      },
+      {
+        "id": "neptune",
+        "formatted": "7° 52' 19\" Tauro"
+      },
+      {
+        "id": "pluto",
+        "formatted": "24° 43' 32\" Tauro"
+      },
+      {
+        "id": "northNode",
+        "formatted": "2° 43' 53\" Acuario"
+      },
+      {
+        "id": "chiron",
+        "formatted": "5° 32' 41\" Tauro"
+      },
+      {
+        "id": "southNode",
+        "formatted": "2° 43' 53\" Leo"
+      },
+      {
+        "id": "ascendant",
+        "formatted": "11° 30' 10\" Cáncer"
+      },
+      {
+        "id": "midheaven",
+        "formatted": "12° 50' 24\" Piscis"
+      }
+    ],
+    "houses": [
+      {
+        "house": 1,
+        "formatted": "11° 30' 10\" Cáncer"
+      },
+      {
+        "house": 2,
+        "formatted": "28° 32' 13\" Cáncer"
+      },
+      {
+        "house": 3,
+        "formatted": "17° 46' 35\" Leo"
+      },
+      {
+        "house": 4,
+        "formatted": "12° 50' 24\" Virgo"
+      },
+      {
+        "house": 5,
+        "formatted": "18° 18' 48\" Libra"
+      },
+      {
+        "house": 6,
+        "formatted": "2° 59' 34\" Sagitario"
+      },
+      {
+        "house": 7,
+        "formatted": "11° 30' 10\" Capricornio"
+      },
+      {
+        "house": 8,
+        "formatted": "28° 32' 13\" Capricornio"
+      },
+      {
+        "house": 9,
+        "formatted": "17° 46' 35\" Acuario"
+      },
+      {
+        "house": 10,
+        "formatted": "12° 50' 24\" Piscis"
+      },
+      {
+        "house": 11,
+        "formatted": "18° 18' 48\" Aries"
+      },
+      {
+        "house": 12,
+        "formatted": "2° 59' 34\" Géminis"
+      }
+    ]
+  },
+  "Carl Gustav Jung": {
+    "planets": [
+      {
+        "id": "sun",
+        "formatted": "3° 18' 37\" Leo"
+      },
+      {
+        "id": "moon",
+        "formatted": "15° 30' 18\" Tauro"
+      },
+      {
+        "id": "mercury",
+        "formatted": "13° 46' 07\" Cáncer"
+      },
+      {
+        "id": "venus",
+        "formatted": "17° 29' 54\" Cáncer"
+      },
+      {
+        "id": "mars",
+        "formatted": "21° 22' 20\" Sagitario"
+      },
+      {
+        "id": "jupiter",
+        "formatted": "23° 47' 56\" Libra"
+      },
+      {
+        "id": "saturn",
+        "formatted": "24° 11' 43\" Acuario"
+      },
+      {
+        "id": "uranus",
+        "formatted": "14° 48' 18\" Leo"
+      },
+      {
+        "id": "neptune",
+        "formatted": "3° 02' 32\" Tauro"
+      },
+      {
+        "id": "pluto",
+        "formatted": "23° 30' 43\" Tauro"
+      },
+      {
+        "id": "northNode",
+        "formatted": "10° 55' 33\" Aries"
+      },
+      {
+        "id": "chiron",
+        "formatted": "26° 24' 07\" Aries"
+      },
+      {
+        "id": "southNode",
+        "formatted": "10° 55' 33\" Libra"
+      },
+      {
+        "id": "ascendant",
+        "formatted": "1° 25' 26\" Acuario"
+      },
+      {
+        "id": "midheaven",
+        "formatted": "28° 58' 56\" Escorpio"
+      }
+    ],
+    "houses": [
+      {
+        "house": 1,
+        "formatted": "1° 25' 26\" Acuario"
+      },
+      {
+        "house": 2,
+        "formatted": "24° 50' 58\" Piscis"
+      },
+      {
+        "house": 3,
+        "formatted": "3° 45' 12\" Tauro"
+      },
+      {
+        "house": 4,
+        "formatted": "28° 58' 56\" Tauro"
+      },
+      {
+        "house": 5,
+        "formatted": "18° 37' 00\" Géminis"
+      },
+      {
+        "house": 6,
+        "formatted": "7° 33' 06\" Cáncer"
+      },
+      {
+        "house": 7,
+        "formatted": "1° 25' 26\" Leo"
+      },
+      {
+        "house": 8,
+        "formatted": "24° 50' 58\" Virgo"
+      },
+      {
+        "house": 9,
+        "formatted": "3° 45' 12\" Escorpio"
+      },
+      {
+        "house": 10,
+        "formatted": "28° 58' 56\" Escorpio"
+      },
+      {
+        "house": 11,
+        "formatted": "18° 37' 00\" Sagitario"
+      },
+      {
+        "house": 12,
+        "formatted": "7° 33' 06\" Capricornio"
+      }
+    ]
+  },
+  "Barack Obama": {
+    "planets": [
+      {
+        "id": "sun",
+        "formatted": "12° 32' 53\" Leo"
+      },
+      {
+        "id": "moon",
+        "formatted": "3° 21' 27\" Géminis"
+      },
+      {
+        "id": "mercury",
+        "formatted": "2° 19' 54\" Leo"
+      },
+      {
+        "id": "venus",
+        "formatted": "1° 47' 22\" Cáncer"
+      },
+      {
+        "id": "mars",
+        "formatted": "22° 34' 36\" Virgo"
+      },
+      {
+        "id": "jupiter",
+        "formatted": "0° 51' 31\" Acuario"
+      },
+      {
+        "id": "saturn",
+        "formatted": "25° 19' 51\" Capricornio"
+      },
+      {
+        "id": "uranus",
+        "formatted": "25° 16' 15\" Leo"
+      },
+      {
+        "id": "neptune",
+        "formatted": "8° 36' 21\" Escorpio"
+      },
+      {
+        "id": "pluto",
+        "formatted": "6° 58' 40\" Virgo"
+      },
+      {
+        "id": "northNode",
+        "formatted": "27° 18' 18\" Leo"
+      },
+      {
+        "id": "chiron",
+        "formatted": "5° 19' 01\" Piscis"
+      },
+      {
+        "id": "southNode",
+        "formatted": "27° 18' 18\" Acuario"
+      },
+      {
+        "id": "ascendant",
+        "formatted": "18° 29' 37\" Acuario"
+      },
+      {
+        "id": "midheaven",
+        "formatted": "29° 13' 09\" Escorpio"
+      }
+    ],
+    "houses": [
+      {
+        "house": 1,
+        "formatted": "18° 29' 37\" Acuario"
+      },
+      {
+        "house": 2,
+        "formatted": "26° 19' 35\" Piscis"
+      },
+      {
+        "house": 3,
+        "formatted": "0° 39' 36\" Tauro"
+      },
+      {
+        "house": 4,
+        "formatted": "29° 13' 09\" Tauro"
+      },
+      {
+        "house": 5,
+        "formatted": "24° 18' 34\" Géminis"
+      },
+      {
+        "house": 6,
+        "formatted": "19° 23' 30\" Cáncer"
+      },
+      {
+        "house": 7,
+        "formatted": "18° 29' 37\" Leo"
+      },
+      {
+        "house": 8,
+        "formatted": "26° 19' 35\" Virgo"
+      },
+      {
+        "house": 9,
+        "formatted": "0° 39' 36\" Escorpio"
+      },
+      {
+        "house": 10,
+        "formatted": "29° 13' 09\" Escorpio"
+      },
+      {
+        "house": 11,
+        "formatted": "24° 18' 34\" Sagitario"
+      },
+      {
+        "house": 12,
+        "formatted": "19° 23' 30\" Capricornio"
+      }
+    ]
+  },
+  "Edvard Munch": {
+    "planets": [
+      {
+        "id": "sun",
+        "formatted": "20° 25' 06\" Sagitario"
+      },
+      {
+        "id": "moon",
+        "formatted": "18° 28' 01\" Capricornio"
+      },
+      {
+        "id": "mercury",
+        "formatted": "26° 28' 52\" Sagitario"
+      },
+      {
+        "id": "venus",
+        "formatted": "3° 39' 09\" Escorpio"
+      },
+      {
+        "id": "mars",
+        "formatted": "27° 09' 14\" Escorpio"
+      },
+      {
+        "id": "jupiter",
+        "formatted": "16° 47' 00\" Escorpio"
+      },
+      {
+        "id": "saturn",
+        "formatted": "16° 17' 14\" Libra"
+      },
+      {
+        "id": "uranus",
+        "formatted": "23° 09' 03\" Géminis"
+      },
+      {
+        "id": "neptune",
+        "formatted": "3° 18' 19\" Aries"
+      },
+      {
+        "id": "pluto",
+        "formatted": "10° 40' 58\" Tauro"
+      },
+      {
+        "id": "northNode",
+        "formatted": "27° 41' 16\" Escorpio"
+      },
+      {
+        "id": "chiron",
+        "formatted": "6° 30' 36\" Piscis"
+      },
+      {
+        "id": "southNode",
+        "formatted": "27° 41' 16\" Tauro"
+      },
+      {
+        "id": "ascendant",
+        "formatted": "6° 13' 26\" Virgo"
+      },
+      {
+        "id": "midheaven",
+        "formatted": "23° 29' 12\" Tauro"
+      }
+    ],
+    "houses": [
+      {
+        "house": 1,
+        "formatted": "6° 13' 26\" Virgo"
+      },
+      {
+        "house": 2,
+        "formatted": "23° 36' 19\" Virgo"
+      },
+      {
+        "house": 3,
+        "formatted": "18° 11' 52\" Libra"
+      },
+      {
+        "house": 4,
+        "formatted": "23° 29' 12\" Escorpio"
+      },
+      {
+        "house": 5,
+        "formatted": "7° 11' 41\" Capricornio"
+      },
+      {
+        "house": 6,
+        "formatted": "11° 20' 07\" Acuario"
+      },
+      {
+        "house": 7,
+        "formatted": "6° 13' 26\" Piscis"
+      },
+      {
+        "house": 8,
+        "formatted": "23° 36' 19\" Piscis"
+      },
+      {
+        "house": 9,
+        "formatted": "18° 11' 52\" Aries"
+      },
+      {
+        "house": 10,
+        "formatted": "23° 29' 12\" Tauro"
+      },
+      {
+        "house": 11,
+        "formatted": "7° 11' 41\" Cáncer"
+      },
+      {
+        "house": 12,
+        "formatted": "11° 20' 07\" Leo"
+      }
+    ]
+  }
+}
